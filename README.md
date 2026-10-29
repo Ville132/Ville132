@@ -20,7 +20,7 @@ Webbapparna samlas i **[Appstugan](https://appstugan.up.railway.app)** – en st
 | **Mult** | Multiplikation med poäng, snabbhetsbonus och streaks | [Webb](https://appstugan.up.railway.app/mult/) | [mult](https://github.com/Ville132/mult) |
 | **Hitta x** | Små historier som löses med ekvationer – åk 9 och Matte 1c | [Webb](https://appstugan.up.railway.app/hitta-x/) | [hitta-x](https://github.com/Ville132/hitta-x) |
 | **Matteuppgifter** | AI-genererade uppgifter med lösningar för åk 4–9 | – | [matte-app](https://github.com/Ville132/matte-app) |
-| **Kristendom** | Interaktiv lärobok med tankekartor, tidslinje och quiz | – | [christianity-mindmap](https://github.com/Ville132/christianity-mindmap) |
+| **Kristendom** | Interaktiv lärobok med tankekartor, tidslinje och quiz | [Webb](https://appstugan.up.railway.app/kristendom/) | [christianity-mindmap](https://github.com/Ville132/christianity-mindmap) |
 
 ## ⌚ Apple Watch och 📱 iPhone
 
