@@ -12,7 +12,6 @@ Webbapparna samlas i **[Appstugan](https://appstugan.up.railway.app)** – en st
 | **Rymd-Dino** | Rymdlöpare: hoppa, ducka och flyg med jetpack | [Webb](https://appstugan.up.railway.app/rymd-dino/) | [rymd-dino](https://github.com/Ville132/rymd-dino) |
 | **Ice Cream Clicker** | Klicka fram glasskulor och lås upp achievements | [Webb](https://appstugan.up.railway.app/ice-cream-clicker/) | [ice-cream-clicker](https://github.com/Ville132/ice-cream-clicker) |
 | **Nore Clicker** | Klicka på huvudet och köp uppgraderingar | [Webb](https://appstugan.up.railway.app/nore-clicker/) | [nore-clicker](https://github.com/Ville132/nore-clicker) |
-| **Quick Draw AI** | Rita – en AI gissar vad det är | – | [quick-draw-game](https://github.com/Ville132/quick-draw-game) |
 
 ## 📚 Plugga
 
